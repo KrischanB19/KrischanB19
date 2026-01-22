@@ -13,3 +13,13 @@
   * Education policy and equitable K-12 education
   * Healthcare policy and access
   * Statistical learning
+
+### Some of my skills include:
+  * R and RStudio
+  * Python (currently learning)
+  * Java
+  * SQL
+  * Microsoft Excel
+  * Tableau (currently learning)
+
+### I enjoy nature, late-night walks, traveling, going out with friends eating good food, reading (sometimes) and writing. 
